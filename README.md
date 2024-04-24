@@ -5,5 +5,5 @@ Installation Gitness script
 ```bash
 sudo -i
 chmod +x install.sh
-./install.sh
+./install.sh [ DOMAIN ] [ PORT ]
 ```
